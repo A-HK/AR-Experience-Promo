@@ -44,6 +44,10 @@ select {
   pointer-events: auto;
 }
 
+#header{
+  color: #742369;
+}
+
 .lil-gui {
   z-index: 2 !important; /* TODO Solve this in HTML */
 }
