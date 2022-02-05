@@ -24,7 +24,7 @@ button {
 
 #info {
   position: absolute;
-  top: 0px;
+  top: 40%;
   width: 100%;
   padding: 10px;
   box-sizing: border-box;
@@ -35,10 +35,6 @@ button {
   user-select: none;
   pointer-events: none;
   z-index: 1; /* TODO Solve this in HTML */
-  display: flex;
-  margin: auto;
-  align-items:center;
- justify-content:center;
 }
 
 a,
