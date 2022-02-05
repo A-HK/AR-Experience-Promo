@@ -35,6 +35,10 @@ button {
   user-select: none;
   pointer-events: none;
   z-index: 1; /* TODO Solve this in HTML */
+  display: flex;
+  margin: auto;
+  align-items:center;
+ justify-content:center;
 }
 
 a,
