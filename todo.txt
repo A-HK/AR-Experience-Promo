@@ -1,0 +1,6 @@
+Metaverse experience
+
+- Get text glowing effect for 'Metaverse' to work
+- Add 3D objects and swirl thingies
+- Add video textures for AR
+- Add definition panels for what is AR and VR
